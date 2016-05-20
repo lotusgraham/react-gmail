@@ -65,7 +65,7 @@ var App = function(props) {
     return (
         <div>
             <h1>
-                Contacts Applications
+                Contacts App
             </h1>
             <div>
                 {props.children}
